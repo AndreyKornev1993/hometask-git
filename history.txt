@@ -1,0 +1,33 @@
+commit 45e5a4d67ec22b99676827b8bcfdf8fc41d5e86d (HEAD -> master, origin/master, task2)
+Merge: d82612c 015ff4f
+Author: AndreyKornev1993 <107648003+AndreyKornev1993@users.noreply.github.com>
+Date:   Thu Jul 21 15:25:03 2022 +0300
+
+    Merge pull request #1 from AndreyKornev1993/task1
+
+    Task1
+
+commit 015ff4f8e2468650eb3b8903508f4ed5bb151e4e (origin/task1, task1)
+Author: AndreyKornev <kornev.atc@mail.ru>
+Date:   Thu Jul 21 15:02:34 2022 +0300
+
+    modified newfile
+
+commit d82612c9b8accfbed0dd58f4d2898da21f900e25
+Author: AndreyKornev <kornev.atc@mail.ru>
+Date:   Wed Jul 20 00:25:00 2022 +0300
+
+    add readme
+
+commit 9f1e0b53c1e49db3c730e8d82ea2ed6b10909214
+Author: AndreyKornev <kornev.atc@mail.ru>
+Date:   Wed Jul 20 00:01:59 2022 +0300
+
+    created a newfile and modified more-file
+
+commit 2044c4ca68eb49e128e9878888f103b306d38476
+Author: AndreyKornev <kornev.atc@mail.ru>
+Date:   Sun Jul 17 16:12:44 2022 +0300
+
+    add new file and modifield empty
+
