@@ -1,0 +1,10 @@
+* 733d3a4 added history commit
+*   45e5a4d Merge pull request #1 from AndreyKornev1993/task1
+|\
+| * 015ff4f modified newfile
+| * 9f1e0b5 created a newfile and modified more-file
+| * 2044c4c add new file and modifield empty
+| * a894a56 added empty file
+* | d82612c add readme
+|/
+* 02df005  added file first.txt
